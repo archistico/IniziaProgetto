@@ -1,0 +1,12 @@
+D:\Programmazione\IniziaProgetto\IniziaProgetto\bin\Release\CartellaCopia.txt
+D:\Programmazione\IniziaProgetto\IniziaProgetto\bin\Release\CartellaIniziale.txt
+D:\Programmazione\IniziaProgetto\IniziaProgetto\bin\Release\IniziaProgetto.exe
+D:\Programmazione\IniziaProgetto\IniziaProgetto\bin\Release\IniziaProgetto.pdb
+D:\Programmazione\IniziaProgetto\IniziaProgetto\bin\Release\IniziaProgetto.xml
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.frmHome.resources
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.frmINFO.resources
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.Resources.resources
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.vbproj.GenerateResource.Cache
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.exe
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.xml
+D:\Programmazione\IniziaProgetto\IniziaProgetto\obj\Release\IniziaProgetto.pdb
